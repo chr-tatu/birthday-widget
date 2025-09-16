@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Birthday Widget</string>
+    <string name="status_signed_in">Signed in as %1$s</string>
+    <string name="status_signed_out">Connect your Google account to sync birthdays.</string>
+    <string name="action_refresh">Sync now</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="help_message">After signing in, add the birthday widget to your home screen. It refreshes automatically four times per day.</string>
+    <string name="widget_title">Upcoming birthdays</string>
+    <string name="widget_message_sign_in">Sign in with Google in the app to see your contacts' upcoming birthdays.</string>
+    <string name="widget_message_error">We couldn&#39;t refresh: %1$s</string>
+    <string name="widget_message_empty">No birthdays in the next two weeks.</string>
+    <string name="widget_last_updated">Updated %1$s</string>
+    <string name="widget_manage_button">Open app</string>
+    <string name="widget_manage_hint">Tap to manage</string>
+    <string name="widget_header_today">Today</string>
+    <string name="widget_header_tomorrow">Tomorrow</string>
+    <string name="error_authorization_needed">Open the app to renew access to your Google contacts.</string>
+    <string name="error_sync_failed">Network error: %1$s</string>
+    <string name="error_unknown">Something went wrong. Try again later.</string>
+</resources>
